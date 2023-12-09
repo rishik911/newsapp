@@ -45,5 +45,12 @@ The app supports the following  :
    - Pin / unpin action
 9. Errors are handled using toast messages.
 
-
 ## Screenshots 
+
+![Screenshot_1702135442](https://github.com/rishik911/newsapp/assets/49229949/f8eee9e4-e6b9-4f0e-92bb-6c93ad76786f)
+![Screenshot_1702135428](https://github.com/rishik911/newsapp/assets/49229949/2f141292-865e-409a-a65c-8a88ade68288)
+![Screenshot_1702135397](https://github.com/rishik911/newsapp/assets/49229949/a41cc0c9-4e95-41ff-9fff-bfea8ab2e7de)
+![Screenshot_1702135390](https://github.com/rishik911/newsapp/assets/49229949/f69df3ad-b425-432c-89fc-feb253777536)
+
+
+
